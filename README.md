@@ -1,5 +1,3 @@
-Aqui está um modelo de README melhorado, pronto para você copiar e adaptar ao seu projeto:
-
 ---
 
 # 🎮 Dashboard de Vendas do Xbox com Excel
